@@ -1,0 +1,8 @@
+./node_modules
+package-lock.json
+package.json
+.prettierrc
+.eslintrc.json
+./static/jquery.js
+./static/jw.js
+./static/player.css
